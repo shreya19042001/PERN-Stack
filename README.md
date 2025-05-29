@@ -12,9 +12,9 @@ A full-stack CRUD To-Do application built using the **PERN stack** (PostgreSQL, 
 ---
 
 ## 🏗️ Project Structure
-**/client** → React frontend
-**/server** → Express + Node backend
-**database.sql** → PostgreSQL schema 
+-**/client** → React frontend
+-**/server** → Express + Node backend
+-**database.sql** → PostgreSQL schema(in the server side)
 
 ## 🚀 Setup Instructions
 
