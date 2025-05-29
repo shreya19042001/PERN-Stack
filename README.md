@@ -58,16 +58,17 @@ npm start
 Runs on: http://localhost:3000
 
 📦 Commands
+
 Server
 
 npm install--	Install backend dependencies
 npm run dev--	Run backend in dev mode (with nodemon)
-npm start--	Run backend in normal mode
+npm start--	  Run backend in normal mode
 
 Client
 
-npm install--	Install frontend dependencies
-npm start-- Start React dev server
+npm install--	  Install frontend dependencies
+npm start--     Start React dev server
 npm run build-- Build production-ready frontend
 
 🌟 Features
@@ -79,10 +80,10 @@ npm run build-- Build production-ready frontend
 ✅ Simple, clean, and responsive UI
 
 🌍 API Endpoints
-Method	Endpoint	Description
-GET	/todos	Get all todos
-POST	/todos	Add a new todo
-PUT	/todos/:id	Update todo by ID
+Method	Endpoint	   Description
+GET	    /todos	    Get all todos
+POST	  /todos	    Add a new todo
+PUT   	/todos/:id	Update todo by ID
 DELETE	/todos/:id	Delete todo by ID
 
 👩‍💻 Author
